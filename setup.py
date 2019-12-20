@@ -34,7 +34,7 @@ wsdl_dst_dir = 'Lib/site-packages/wsdl' if sys.platform == 'win32' else \
                                                        sys.version_info.minor)
 
 setup(
-      name='onvif_zeep',
+      name='onvif_zeep-roboticia',
       version=version,
       description='Python Client for ONVIF Camera',
       long_description=open('README.rst', 'r').read(),

@@ -44,7 +44,7 @@ setup(
       maintainer_email='sinchb128@gmail.com',
       license='MIT',
       keywords=['ONVIF', 'Camera', 'IPC'],
-      url='http://github.com/quatanium/python-onvif',
+      url='https://github.com/jjehl/python-onvif-zeep',
       zip_safe=False,
       packages=find_packages(exclude=['docs', 'examples', 'tests']),
       install_requires=requires,
